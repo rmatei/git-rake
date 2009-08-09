@@ -1,4 +1,4 @@
-#
+#-
 #  rakefile intended to make handling multiple git submodules easy
 #
 #  this code is made available under the MIT License (see MIT-LICENSE.txt)
