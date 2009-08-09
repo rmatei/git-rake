@@ -18,7 +18,7 @@ but that content is reproduced here for you. Because I'm a nice guy.
 
 To install, just do something like:
 
-> git submodule add git://github.com/mdalessio/git-rake.git lib/tasks/git-rake
+> git submodule add git://github.com/rmatei/git-rake.git lib/tasks/git-rake
 
 And to verify installation, just run:
 
